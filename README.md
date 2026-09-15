@@ -1,16 +1,40 @@
-## Hi there 👋
+# rios-impassiveis
 
-<!--
-**rios-impassiveis/rios-impassiveis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> pequenos programas para grandes confusões.
 
-Here are some ideas to get you started:
+[![Panfletador](https://img.shields.io/badge/Panfletador-online-111827?style=flat-square)](https://rios-impassiveis.github.io/panfletador/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### coisas que aparecem por aqui
+
+mapas  
+arquivos  
+ferramentas  
+automação  
+impressão  
+dados  
+sites  
+coisas que talvez não devessem existir, mas existem
+
+---
+
+### artefatos
+
+**[Panfletador](https://rios-impassiveis.github.io/panfletador/)**  
+uma pequena máquina para transformar uma imagem em muitos panfletos.
+
+**[CONFETRAF Brasil](https://github.com/rios-impassiveis/confetraf-brasil-site)**  
+site e infraestrutura digital.
+
+**[site-teste](https://github.com/rios-impassiveis/site-teste)**  
+experimentos, testes e outras coisas em processo.
+
+---
+
+```text
+não sou exatamente um desenvolvedor.
+às vezes só preciso que alguma coisa funcione.
+```
+
+<sub>alguns projetos são assinados. outros não.</sub>

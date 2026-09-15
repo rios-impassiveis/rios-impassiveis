@@ -24,12 +24,6 @@ coisas que talvez não devessem existir, mas existem
 **[Panfletador](https://rios-impassiveis.github.io/panfletador/)**  
 uma pequena máquina para transformar uma imagem em muitos panfletos.
 
-**[CONFETRAF Brasil](https://github.com/rios-impassiveis/confetraf-brasil-site)**  
-site e infraestrutura digital.
-
-**[site-teste](https://github.com/rios-impassiveis/site-teste)**  
-experimentos, testes e outras coisas em processo.
-
 ---
 
 ```text
@@ -37,4 +31,3 @@ não sou exatamente um desenvolvedor.
 às vezes só preciso que alguma coisa funcione.
 ```
 
-<sub>alguns projetos são assinados. outros não.</sub>
